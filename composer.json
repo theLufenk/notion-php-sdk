@@ -1,12 +1,12 @@
 {
-    "name": "codecycler/notion",
+    "name": "theLufenk/notion",
     "description": "Notion PHP SDK",
     "type": "library",
     "keywords": [
         "Codecycler",
         "Notion"
     ],
-    "homepage": "https://github.com/codecycler/notion",
+    "homepage": "https://github.com/theLufenk/notion-php-sdk",
     "license": "MIT",
     "authors": [
         {
