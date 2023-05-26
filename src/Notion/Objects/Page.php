@@ -65,7 +65,6 @@ class Page extends ObjectBase
             }
         }
 
-        ray($data);
 
         return $data;
     }
